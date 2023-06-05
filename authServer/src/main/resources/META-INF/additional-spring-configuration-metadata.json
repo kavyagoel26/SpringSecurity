@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "keyFile",
+    "type": "java.lang.String",
+    "description": "A description for 'keyFile'"
+  },
+  {
+    "name": "password",
+    "type": "java.lang.String",
+    "description": "A description for 'password'"
+  },
+  {
+    "name": "alias",
+    "type": "java.lang.String",
+    "description": "A description for 'alias'"
+  },
+  {
+    "name": "testKey",
+    "type": "java.lang.String",
+    "description": "A description for 'testKey'"
+  },
+  {
+    "name": "testKey",
+    "type": "java.lang.String",
+    "description": "A description for 'testKey'"
+  }
+]}
